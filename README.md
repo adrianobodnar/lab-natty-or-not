@@ -8,11 +8,11 @@
 Fazer uma breve apresentação do potencial das IA
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e sintetização de voz;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+- ChatGPT - Para roteirização e revisão;
+- ElevenLabs - Para clonagem e sintetização de voz;
+- D-ID Para sintetização de voz e geração de avatar virtual;
 
 
-## 🚀 Resultados
-- LINK DO VIDEO **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
+## 🚀 Resultado
+https://github.com/adrianobodnar/lab-natty-or-not/raw/main/Projeto.mp4
 
